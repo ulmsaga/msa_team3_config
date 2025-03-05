@@ -1,1 +1,1 @@
-# team3_config is config yml for spring cloud config server
+# team3 spring cloud config server
